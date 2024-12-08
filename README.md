@@ -18,6 +18,13 @@ Welcome to my GitHub profile! I’m a computer science student with a passion fo
 
 ---
 
+## 📈 GitHub Stats  
+
+![Azri Azhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+---
+
 ## 📂 Projects  
 ### 1. **SPM-Based Course Recommendation System**  
 A platform for SPM students to input their results and receive personalized course suggestions.  
@@ -28,6 +35,7 @@ Conducted surveys and analyzed data to propose strategies for sustainable IT pra
 
 ---
 
-## 📫 How to Reach Me    
-- 📧 [Email Me] Azriazhar277@gmail.com
+## 📫 How to Reach Me  
+- 📧 [Email Me] azriazhar277@gmail.com  
+
 Thanks for stopping by! 😊
