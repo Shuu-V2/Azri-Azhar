@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I’m a computer science student with a passion fo
 
 ## 📈 GitHub Stats  
 
-![Azri Azhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Azri Azhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuu-V2&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuu-V2&layout=compact&theme=radical)  
 
 ---
 
